@@ -1,10 +1,10 @@
 ![repository-banner.png](https://res.cloudinary.com/alvarosaburido/image/upload/v1612193118/as-portfolio/Repo_Banner_kexozw.png)
 
-# AS Slidev template 🐧
+# AS Slidev template 🐧
 
 > Personal template for my conference presentations using [Slidev](https://github.com/slidevjs/slidev)
 
-## Usage
+## Usage
 
 ```bash
 npx degit alvarosabu/talk-template talk-name-01-2023
