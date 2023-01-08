@@ -1,6 +1,19 @@
 {
   "name": "@alvarosabu/talk-template",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Slidev theme penguin template.",
+  "author": "Alvaro Saburido <hola@alvarosaburido.dev>",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "slidev",
+    "slidev-theme-penguin",
+    "slidev-theme",
+    "slidev-theme-penguin-template"
+  ],
+  "contributors": [
+    "Alvaro <hola@alvarosaburido.dev>"
+  ],
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
