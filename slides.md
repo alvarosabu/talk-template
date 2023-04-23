@@ -1,21 +1,17 @@
 ---
 # try also 'default' to start simple
 theme: penguin
-colorSchema: dark
-themeConfig:
-  logoHeader: https://res.cloudinary.com/alvarosaburido/image/upload/v1666359605/as-portfolio/Pixel_Avatar_lhbjva.png
-  eventLogo: ''
-  eventUrl: 'https://frontdevstage.com/'
-  twitter: '@alvarosabu'
-  twitterUrl: 'https://twitter.com/alvarosabu'
+colorSchema: 'auto'
+layout: intro
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
-# show line numbers in code blocks
-lineNumbers: false
+themeConfig:
+  logoHeader: https://res.cloudinary.com/alvarosaburido/image/upload/v1666359605/as-portfolio/Pixel_Avatar_lhbjva.png
+  eventLogo: 'https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-amsterdam-with-name.png'
+  eventUrl: 'https://vuejs.amsterdam/'
+  twitter: '@alvarosabu'
+  twitterUrl: 'https://twitter.com/alvarosabu'
 css: unocss
-layout: intro
-drawings:
-  persist: false
 ---
 
 # Your absolutely awesome title
@@ -24,7 +20,7 @@ drawings:
 layout: presenter
 twitter: '@alvarosabu'
 twitterUrl: https://twitter.com/alvarosabu
-presenterImage: https://res.cloudinary.com/alvarosaburido/image/upload/v1673193768/the-astronaut-color_el2jle.png
+presenterImage: /avatar.jpeg
 ---
 
 # Alvaro Saburido
@@ -32,7 +28,6 @@ presenterImage: https://res.cloudinary.com/alvarosaburido/image/upload/v16731937
 DevRel Engineer at <a href="https://www.storyblok.com/"><logos-storyblok-icon /> Storyblok</a>
 
 - Barcelona, Spain 🇻🇪 🇪🇸
-- I often write at <a href="https://dev.to/alvarosaburido"> dev.to/@alvarosabu</a>
 - Creating content on <a href="https://www.youtube.com/channel/AlvaroDevLabs" ><logos-youtube-icon mr-1 />AlvaroDevLabs</a>
 - Blog & Portfolio <a href="https://alvarosaburido.dev">alvarosaburido.dev</a>
 - Say hi at <a href="https://twitter.com/alvarosabu"><logos-twitter mr-1 />@alvarosabu</a>
