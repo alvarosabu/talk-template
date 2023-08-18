@@ -1,10 +1,10 @@
 {
   "name": "@alvarosabu/talk-template",
+  "type": "module",
   "version": "1.0.0",
   "description": "Slidev theme penguin template.",
   "author": "Alvaro Saburido <hola@alvarosaburido.dev>",
   "license": "MIT",
-  "type": "module",
   "keywords": [
     "slidev",
     "slidev-theme-penguin",
