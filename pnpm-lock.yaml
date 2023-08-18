@@ -29,8 +29,8 @@ devDependencies:
     specifier: ^1.66.0
     version: 1.66.0
   slidev-theme-penguin:
-    specifier: ^2.0.2
-    version: 2.0.2
+    specifier: ^2.1.0
+    version: 2.1.0
 
 packages:
 
@@ -5564,8 +5564,8 @@ packages:
     dev: false
     optional: true
 
-  /slidev-theme-penguin@2.0.2:
-    resolution: {integrity: sha512-XhI3NAzoco7MQzv272O+y8GpfbYHv+2lCYWwgl2mbXectZyPfD3RuE5fwD0FRSJwgP3ofn90octTf8T/9cAtzA==}
+  /slidev-theme-penguin@2.1.0:
+    resolution: {integrity: sha512-VpbSioMZ/F4tP8+rZMeoIjoXuVcFeoRHHGIxmVtDxqXMcQhAq4GI4TcK0uc3BwZ3YIaFTyeCs7TKBpWCyJbPow==}
     dependencies:
       '@alvarosabu/ui': 3.0.0-alpha.13
       '@slidev/types': 0.42.8

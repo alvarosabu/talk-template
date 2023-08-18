@@ -29,6 +29,6 @@
     "@iconify-json/logos": "^1.1.34",
     "@iconify-json/simple-icons": "^1.1.66",
     "sass": "^1.66.0",
-    "slidev-theme-penguin": "^2.0.2"
+    "slidev-theme-penguin": "^2.1.0"
   }
 }
