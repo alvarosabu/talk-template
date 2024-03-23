@@ -20,7 +20,13 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.42.8"
+    "@slidev/cli": "^0.42.8",
+    "@tresjs/cientos": "^3.8.0",
+    "@tresjs/core": "^3.7.0",
+    "@types/three": "^0.161.2",
+    "@vueuse/core": "^10.8.0",
+    "three": "^0.161.0",
+    "vue": "^3.4.19"
   },
   "devDependencies": {
     "@alvarosabu/eslint-config-vue": "^0.4.0",
@@ -28,7 +34,8 @@
     "@alvarosabu/ui": "^2.20.0",
     "@iconify-json/logos": "^1.1.42",
     "@iconify-json/simple-icons": "^1.1.87",
+    "gsap": "^3.12.5",
     "sass": "^1.69.7",
-    "slidev-theme-penguin": "^2.1.0"
+    "slidev-theme-penguin": "^2.1.2"
   }
 }
