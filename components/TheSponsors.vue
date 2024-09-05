@@ -59,7 +59,7 @@ const tresSponsors = [
         <img
           :src="avatar"
           class="important-rounded-full w-14 h-14 mb-2 object-cover shadow-xl"
-        >
+        />
       </div>
     </div>
   </section>
@@ -76,7 +76,7 @@ const tresSponsors = [
         <img
           :src="avatar"
           class="important-rounded-full w-14 h-14 mb-2 object-cover shadow-xl"
-        >
+        />
       </div>
     </div>
   </section>

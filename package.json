@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "description": "Slidev theme penguin template.",
   "author": "Alvaro Saburido <hola@alvarosaburido.dev>",
+  "contributors": [
+    "Alvaro <hola@alvarosaburido.dev>"
+  ],
   "license": "MIT",
   "keywords": [
     "slidev",
@@ -11,31 +14,30 @@
     "slidev-theme",
     "slidev-theme-penguin-template"
   ],
-  "contributors": [
-    "Alvaro <hola@alvarosaburido.dev>"
-  ],
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@slidev/cli": "^0.42.8",
-    "@tresjs/cientos": "^3.8.0",
-    "@tresjs/core": "^3.7.0",
-    "@types/three": "^0.161.2",
-    "@vueuse/core": "^10.8.0",
-    "three": "^0.161.0",
-    "vue": "^3.4.19"
+    "@slidev/cli": "^0.49.29",
+    "@tresjs/cientos": "^4.0.0",
+    "@tresjs/core": "^4.2.7",
+    "@types/three": "^0.167.2",
+    "@vueuse/core": "^11.0.3",
+    "three": "^0.167.1",
+    "vue": "^3.4.38"
   },
   "devDependencies": {
-    "@alvarosabu/eslint-config-vue": "^0.4.0",
-    "@alvarosabu/prettier-config": "^1.3.0",
-    "@alvarosabu/ui": "^2.20.0",
-    "@iconify-json/logos": "^1.1.42",
-    "@iconify-json/simple-icons": "^1.1.87",
+    "@alvarosabu/eslint-config": "^1.2.0",
+    "@alvarosabu/ui": "3.0.0",
+    "@iconify-json/logos": "^1.1.44",
+    "@iconify-json/simple-icons": "^1.1.115",
+    "eslint": "^9.9.1",
     "gsap": "^3.12.5",
-    "sass": "^1.69.7",
-    "slidev-theme-penguin": "^2.1.2"
+    "sass": "^1.77.8",
+    "slidev-theme-penguin": "^2.2.2"
   }
 }

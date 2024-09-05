@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { onMounted, ref } from 'vue'
 
 const repos = [
   'https://api.github.com/repos/tresjs/tres/contributors',
@@ -32,7 +32,7 @@ onMounted(async () => {
         :title="username"
         :src="`https://avatars.githubusercontent.com/${username}?v=4`"
         class="important-rounded-full w-14 h-14 mb-2 object-cover shadow-xl"
-      >
+      />
     </div>
   </div>
 </template>

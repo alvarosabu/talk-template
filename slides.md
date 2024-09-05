@@ -79,7 +79,6 @@ layout: center
 
 <TheContributors />
 
-
 ---
 layout: two-cols
 ---
@@ -91,8 +90,6 @@ layout: two-cols
 ::right::
 
 <iframe class="rounded shadow-lg" src="https://github.com/sponsors/Tresjs/card" title="Sponsor Tresjs" height="225" width="400" style="border: 0;"></iframe>
-
-
 
 ---
 layout: new-section
