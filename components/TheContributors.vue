@@ -6,6 +6,7 @@ const repos = [
   'https://api.github.com/repos/tresjs/cientos/contributors',
   'https://api.github.com/repos/tresjs/post-processing/contributors',
   'https://api.github.com/repos/tresjs/nuxt/contributors',
+  'https://api.github.com/repos/tresjs/rapier/contributors',
   // Add more repository URLs here
 ]
 

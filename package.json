@@ -22,22 +22,23 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@slidev/cli": "0.50.0-beta.3",
+    "@slidev/cli": "0.50.0-beta.5",
     "@tresjs/cientos": "^4.0.0",
-    "@tresjs/core": "^4.2.7",
+    "@tresjs/core": "^4.3.1",
     "@types/three": "^0.169.0",
-    "@vueuse/core": "^11.0.3",
-    "three": "^0.169.0",
-    "vue": "^3.4.38"
+    "@vueuse/core": "^11.2.0",
+    "three": "^0.170.0",
+    "vue": "^3.5.12"
   },
   "devDependencies": {
     "@alvarosabu/eslint-config": "^1.2.0",
     "@alvarosabu/ui": "3.0.0",
-    "@iconify-json/logos": "^1.1.44",
-    "@iconify-json/simple-icons": "^1.1.115",
-    "eslint": "^9.9.1",
+    "@iconify-json/logos": "^1.2.3",
+    "@iconify-json/simple-icons": "^1.2.11",
+    "eslint": "^9.14.0",
     "gsap": "^3.12.5",
-    "sass": "^1.77.8",
-    "slidev-theme-penguin": "^2.2.2"
+    "sass": "^1.80.6",
+    "slidev-theme-penguin": "^2.3.0",
+    "sponsorkit": "^0.16.2"
   }
 }

@@ -83,9 +83,7 @@ layout: center
 layout: two-cols
 ---
 
-# Thanks to our sponsors
-
-<TheSponsors />
+![Sponsors](/sponsors.svg)
 
 ::right::
 
